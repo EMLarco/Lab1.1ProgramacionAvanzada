@@ -14,7 +14,7 @@
 | Fecha de ejecución | 16/10/2026 |
 | Entorno | Windows 11 · Java 21 (compilación) / Java 25 (runtime) · Spring Boot 4.1.1 · IntelliJ IDEA · Maven Wrapper |
 | Proyecto | `com.espe.lab` (Artifact: `lab`) |
-| Repositorio |  |
+| Repositorio | https://github.com/EMLarco/Lab1.1ProgramacionAvanzada |
 
 ---
 
